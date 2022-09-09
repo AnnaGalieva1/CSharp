@@ -1,0 +1,16 @@
+C:\Users\annet\OneDrive\Рабочий стол\Csharp task\task 54\obj\Debug\net6.0\task 54.GlobalUsings.g.cs
+C:\Users\annet\OneDrive\Рабочий стол\Csharp task\task 54\obj\Debug\net6.0\task 54.csproj.AssemblyReference.cache
+C:\Users\annet\OneDrive\Рабочий стол\Csharp task\task 54\obj\Debug\net6.0\task 54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annet\OneDrive\Рабочий стол\Csharp task\task 54\obj\Debug\net6.0\task 54.AssemblyInfoInputs.cache
+C:\Users\annet\OneDrive\Рабочий стол\Csharp task\task 54\obj\Debug\net6.0\task 54.AssemblyInfo.cs
+C:\Users\annet\OneDrive\Рабочий стол\Csharp task\task 54\obj\Debug\net6.0\task 54.csproj.CoreCompileInputs.cache
+C:\Users\annet\OneDrive\Рабочий стол\Csharp task\task 54\bin\Debug\net6.0\task 54.exe
+C:\Users\annet\OneDrive\Рабочий стол\Csharp task\task 54\bin\Debug\net6.0\task 54.deps.json
+C:\Users\annet\OneDrive\Рабочий стол\Csharp task\task 54\bin\Debug\net6.0\task 54.runtimeconfig.json
+C:\Users\annet\OneDrive\Рабочий стол\Csharp task\task 54\bin\Debug\net6.0\task 54.dll
+C:\Users\annet\OneDrive\Рабочий стол\Csharp task\task 54\bin\Debug\net6.0\ref\task 54.dll
+C:\Users\annet\OneDrive\Рабочий стол\Csharp task\task 54\bin\Debug\net6.0\task 54.pdb
+C:\Users\annet\OneDrive\Рабочий стол\Csharp task\task 54\obj\Debug\net6.0\task 54.dll
+C:\Users\annet\OneDrive\Рабочий стол\Csharp task\task 54\obj\Debug\net6.0\ref\task 54.dll
+C:\Users\annet\OneDrive\Рабочий стол\Csharp task\task 54\obj\Debug\net6.0\task 54.pdb
+C:\Users\annet\OneDrive\Рабочий стол\Csharp task\task 54\obj\Debug\net6.0\task 54.genruntimeconfig.cache
